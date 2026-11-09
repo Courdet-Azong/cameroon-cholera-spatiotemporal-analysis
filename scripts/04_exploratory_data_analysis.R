@@ -1,5 +1,5 @@
 # ============================================================
-# 03_exploratory_data_analysis.R
+# 04_exploratory_data_analysis.R
 # Exploratory data analysis of cholera model covariates
 #
 # Purpose:
